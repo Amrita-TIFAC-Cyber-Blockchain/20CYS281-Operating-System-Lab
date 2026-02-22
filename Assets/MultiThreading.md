@@ -3,7 +3,7 @@
 
 ## MultiThreading
 
-**MultiThreading** is a form of Multitasking where concurrent execution of the program happens. _Process-based_ and _thread-based_ concurrent executions or multitasking are supported. In process-based, it is concurrent execution of the programs whereas in thread-based concurrent execution of parts of the same program. 
+**MultiThreading** (Multitasking) where concurrent execution of the program happens. _Process-based_ and _thread-based_ concurrent executions or multitasking are supported. In process-based, it is concurrent execution of the programs whereas in thread-based concurrent execution of parts of the same program. 
 
 ## MultiThreading in C 
 
@@ -384,3 +384,4 @@ int main() {
     return 0; 
 }
 ```
+
